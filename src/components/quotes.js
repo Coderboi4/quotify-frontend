@@ -372,7 +372,7 @@ function QuoteGenerator() {
                 class="attr"
                 style={{ alignText: "right", color: "white", fontSize: "28px" }}
               >
-                <i>- Quotify</i>
+                <i>- BloggerSpy</i>
               </p>
               {/* <hr class="line" /> */}
             </div>
